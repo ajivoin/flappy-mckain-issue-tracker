@@ -1,4 +1,11 @@
-## Version 3.0 ([Latest](https://play.google.com/store/apps/details?id=com.jivoin.FlappyMcKain))
+## Version 4.0 ([Latest](https://play.google.com/store/apps/details?id=com.jivoin.FlappyMcKain))
+### Features
+- Adds basic pause menu
+- Adds a better music experience (thanks [@ShearerAWS](https://github.com/sheareraws))
+### Bugfixes
+- Fixes Rotation Lock bug (thanks [@pkshah2017](https://github.com/pkshah2017))
+
+## Version 3.0
 ### Features
 - Makes hitboxes on player and obstacles slightly larger
 - Adds Google Play Games leaderboards and achievements
