@@ -1,14 +1,19 @@
-## Version 4.0 ([Latest](https://play.google.com/store/apps/details?id=com.jivoin.FlappyMcKain))
+## Version 5.0 ([Latest](https://play.google.com/store/apps/details?id=com.jivoin.FlappyMcKain))
 ### Features
-- Adds basic pause menu
-- Adds a better music experience (thanks [@ShearerAWS](https://github.com/sheareraws))
+- Double tap pause screen to view leaderboards in game ([#2](../../issues/2))
+- Adds scrolling background and foreground ([#8](../../issues/8))
+
+## Version 4.0
+### Features
+- Adds basic pause menu ([#1](../../issues/1))
+- Adds a better music experience ([#7](../../issues/7)) (thanks [@ShearerAWS](https://github.com/sheareraws))
 ### Bugfixes
-- Fixes Rotation Lock bug (thanks [@pkshah2017](https://github.com/pkshah2017))
+- Fixes Rotation Lock bug ([#6](../../issues/6)) (thanks [@pkshah2017](https://github.com/pkshah2017))
 
 ## Version 3.0
 ### Features
 - Makes hitboxes on player and obstacles slightly larger
-- Adds Google Play Games leaderboards and achievements
+- Adds Google Play Games leaderboards and achievements ([#2](../../issues/2))
 
 ## Version 2.1
 ### Bugfixes
