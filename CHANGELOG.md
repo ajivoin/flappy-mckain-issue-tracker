@@ -1,4 +1,10 @@
-## Version 5.0 ([Latest](https://play.google.com/store/apps/details?id=com.jivoin.FlappyMcKain))
+## Version 6.0 ([Latest](https://play.google.com/store/apps/details?id=com.jivoin.FlappyMcKain))
+### Features
+- Pauses upon death, showing your score ([#11](../../issues/11))
+- Average score is now tracked, syncs with Google Play Games leaderboard ([#13](../../issues/13))
+- Character will not move after death until screen is tapped ([#14](../../issues/14))
+
+## Version 5.0
 ### Features
 - Double tap pause screen to view leaderboards in game ([#2](../../issues/2))
 - Adds scrolling background and foreground ([#8](../../issues/8))
