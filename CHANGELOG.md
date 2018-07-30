@@ -1,4 +1,9 @@
-## Version 6.0 ([Latest](https://play.google.com/store/apps/details?id=com.jivoin.FlappyMcKain))
+## Version 6.1 ([Latest](https://play.google.com/store/apps/details?id=com.jivoin.FlappyMcKain))
+### Bugfixes
+- Tracking average score is incompatible with Play Games leaderboards since it only saves the highest reported score. The data is being tracked just in case this changes on Google's end in the future. The leaderboard has been removed.
+  - Thanks [@ShearerAWS](https://github.com/sheareraws) for finding this bug on your quest for the highest average score
+
+## Version 6.0
 ### Features
 - Pauses upon death, showing your score ([#11](../../issues/11))
 - Average score is now tracked, syncs with Google Play Games leaderboard ([#13](../../issues/13))
