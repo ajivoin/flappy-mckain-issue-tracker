@@ -1,4 +1,9 @@
-## Version 6.1 ([Latest](https://play.google.com/store/apps/details?id=com.jivoin.FlappyMcKain))
+## Version 6.2
+### Bugfixes
+- Fixed game being unable to load
+  - **Side effect**: Game required a new Play Store listing. I'm going to write a blog post about what happened.
+
+## Version 6.1
 ### Bugfixes
 - Tracking average score is incompatible with Play Games leaderboards since it only saves the highest reported score. The data is being tracked just in case this changes on Google's end in the future. The leaderboard has been removed.
   - Thanks [@ShearerAWS](https://github.com/sheareraws) for finding this bug on your quest for the highest average score
